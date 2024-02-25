@@ -4,6 +4,11 @@ const tips = [
     "Are you sad? Don't be sad.",
     "Back to the future is the best movie.",
     "Back to the future II is the second best movie.",
+    "-.-"
+    ":v"
+    "Another book suggestion: Shadows of the Mind."
+    "Another book suggestion: Outliers."
+    "Another book suggestion: Through the Glass Ceiling to the Stars."
     // Add more tips as needed
 ];
 
