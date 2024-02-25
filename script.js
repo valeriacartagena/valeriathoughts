@@ -12,3 +12,6 @@ function generateRandomTip() {
 
     tipContainer.innerHTML = `<p class="tip"># ${randomIndex + 1}</p><p>${randomTip}</p>`;
 }
+
+// Call the function on page load
+generateRandomTip();
