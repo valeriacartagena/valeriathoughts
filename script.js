@@ -1,9 +1,9 @@
 const tips = [
     "Marvincito <3",
     "Vamos de paseo π π π",
-    "Are you sad? Don't be sad",
-    "Back to the future is the best movie",
-    "Back to the future II is the second best movie",
+    "Are you sad? Don't be sad.",
+    "Back to the future is the best movie.",
+    "Back to the future II is the second best movie.",
     // Add more tips as needed
 ];
 
