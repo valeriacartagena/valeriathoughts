@@ -33,7 +33,9 @@ const tips = [
     "GO CARDINALS!",
     "Are you tired? Don't be tired.",
     "Find all triples of positive integers pa, b, pq with p prime and a^p = b! + p.",
-    "Prove that 5^n - 3^n is not divisible by 2^n + 65 for any positive integer n."
+    "Prove that 5^n - 3^n is not divisible by 2^n + 65 for any positive integer n.",
+    "Remember to stay hydrated!",
+    "I wrote many of these random phrases one day when I was bored (and had 5+ psets to do)."
 
     // Add more tips as needed
 ];
