@@ -6,19 +6,7 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-}
-
-.container {
-    text-align: center;
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-p.tip {
-    font-size: 18px;
-    color: #888;
+    color: #000; /* Black text */
 }
 
 /* Add any additional styling as needed */
