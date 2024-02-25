@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 const tips = [
-    "Marvincito <3",
+    "--- - .. -.-. -. .. ...- .-. .- --",
     "Vamos de paseo π π π",
     "Are you sad? Don't be sad.",
     "Back to the future is the best movie.",
@@ -35,7 +35,7 @@ const tips = [
     "Find all triples of positive integers pa, b, pq with p prime and a^p = b! + p.",
     "Prove that 5^n - 3^n is not divisible by 2^n + 65 for any positive integer n.",
     "Remember to stay hydrated!"
-    
+
     // Add more tips as needed
 ];
 
