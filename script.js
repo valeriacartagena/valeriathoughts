@@ -12,7 +12,10 @@ const tips = [
     ":v",
     "Another book suggestion: Shadows of the Mind.",
     "Another book suggestion: Outliers.",
-    "Another book suggestion: Through the Glass Ceiling to the Stars."
+    "Another book suggestion: Through the Glass Ceiling to the Stars.",
+    "Huang says don't learn how to code.",
+    ""Trust me, I'm lying.""
+    
     // Add more tips as needed
 ];
 
