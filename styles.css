@@ -9,19 +9,13 @@ body {
     color: #000; /* Black text */
 }
 
-.container {
+#tip-container {
     text-align: center;
-    background-color: #fffedf; /* Pastel Yellow */
-    padding: 20px;
-    border-radius: 8px;
-    
 }
 
 p.tip {
     font-size: 18px;
     color: #000000;
-    margin: 0; /* Remove default margin */
-    display: inline-block; /* Make sure the tip number and content are on the same line */
+    margin: 0;
+    display: inline-block;
 }
-
-/* Add any additional styling as needed */
