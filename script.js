@@ -36,6 +36,7 @@ const tips = [
     "Prove that 5^n - 3^n is not divisible by 2^n + 65 for any positive integer n.",
     "Remember to stay hydrated!"
     "._."
+    "if the life gives you spheres, use spherical coordinares."
     
 
     // Add more tips as needed
